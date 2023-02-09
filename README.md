@@ -17,11 +17,11 @@
 ##
 
 <a  href="https://github.com/hayltonssantos/webdexReact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hayltonssantos&repo=webdexReact&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hayltonssantos&repo=webdexReact&show_icons=true&theme=dracula&card_width=500px" />
 </a>
 
 <a href="https://github.com/hayltonssantos/wendding-invite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hayltonssantos&repo=wendding-invite&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hayltonssantos&repo=wendding-invite&show_icons=true&theme=dracula&card_width=500px" />
 </a>
 
 ##
