@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Haylton Santos
 
-Sou **Desenvolvedor Front-End** apaixonado por tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas (formando em dezembro/2024). Tenho experiência sólida em projetos web, com domínio em **React, JavaScript, HTML, CSS** e integração com **Firebase**. Busco criar soluções eficientes e inovadoras, sempre aprendendo e evoluindo com cada desafio.
+Sou **Desenvolvedor Front-End** apaixonado por tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas (formando em dezembro/2025). Tenho experiência sólida em projetos web, com domínio em **React, JavaScript, HTML, CSS** e integração com **Firebase**. Busco criar soluções eficientes e inovadoras, sempre aprendendo e evoluindo com cada desafio.
 
 ---
 
@@ -8,10 +8,9 @@ Sou **Desenvolvedor Front-End** apaixonado por tecnologia, atualmente cursando A
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [4Save](https://github.com/hayltonssantos/4Save) | Gerenciador de senhas seguro, com autenticação, CRUD e interface intuitiva. | React, Firebase, CSS |
-| [Webdex React](https://github.com/hayltonssantos/webdexReact) | Aplicação web de catálogo de pokémons, com busca, filtros e integração à API. | React, JavaScript, CSS |
-| [Wendding Invite](https://github.com/hayltonssantos/wendding-invite) | Plataforma para convites de casamento digitais, personalizáveis e responsivos. | React, Firebase, CSS |
-| [ConvoyChat](https://github.com/hayltonssantos/convoychat) | Chat em tempo real com autenticação e armazenamento de mensagens. | React, Firebase, JavaScript |
+| [MsBinary](https://github.com/hayltonssantos/ms-binary) | Website sobre um robô automatizado para investimentos | React, Firebase, CSS |
+| [Swarleys License](https://github.com/hayltonssantos/swarleyslicence) | Aplicação web de gerenciamento de licenças para aplicações externas | React, JavaScript, Firebase, CSS |
+| [Stock Elis TV](https://github.com/hayltonssantos/stocktv) | Plataforma para gestão de estoques | React, Firebase, CSS |
 
 ---
 
